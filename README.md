@@ -12,3 +12,4 @@ Once these prompts had been entered into the field, it would then allow user to 
 User can select wether or not they would like to include one or more characters, which generates a randomly generated password.
 
 Please visit deployed project at:
+ https://shajlp.github.io/password-generator/
